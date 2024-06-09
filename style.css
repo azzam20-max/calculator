@@ -59,3 +59,8 @@ body{
 .operator{
     color: #2f9fff;
 }
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
